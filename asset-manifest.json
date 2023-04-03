@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ootd/static/css/main.90f6920e.css",
-    "main.js": "/ootd/static/js/main.06a17135.js",
+    "main.css": "/ootd/static/css/main.f202ecfc.css",
+    "main.js": "/ootd/static/js/main.576a3d34.js",
     "index.html": "/ootd/index.html",
-    "main.90f6920e.css.map": "/ootd/static/css/main.90f6920e.css.map",
-    "main.06a17135.js.map": "/ootd/static/js/main.06a17135.js.map"
+    "main.f202ecfc.css.map": "/ootd/static/css/main.f202ecfc.css.map",
+    "main.576a3d34.js.map": "/ootd/static/js/main.576a3d34.js.map"
   },
   "entrypoints": [
-    "static/css/main.90f6920e.css",
-    "static/js/main.06a17135.js"
+    "static/css/main.f202ecfc.css",
+    "static/js/main.576a3d34.js"
   ]
 }
